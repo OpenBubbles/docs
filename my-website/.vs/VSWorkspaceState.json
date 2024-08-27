@@ -2,8 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\src"
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\HomepageFeatures",
+    "\\src\\css",
+    "\\src\\pages",
+    "\\static",
+    "\\static\\img"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\css\\custom.css",
   "PreviewInSolutionExplorer": false
 }

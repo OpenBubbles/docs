@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'OpenBubbles',
+  tagline: 'OpenBubbles Documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'OpenBubbles', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,9 +74,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'OpenBubbles',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'OpenBubbles Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -88,7 +88,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/TaeHagen/bluebubbles-app/tree/rustpush',
             label: 'GitHub',
             position: 'right',
           },
@@ -109,35 +109,30 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+             
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                    href: 'https://discord.gg/98fWS4AQqN',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              
+                {
+                    label: 'Report Issues',
+                    href: 'https://github.com/TaeHagen/bluebubbles-app/issues',
+                },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                  href: 'https://github.com/TaeHagen/bluebubbles-app/tree/rustpush',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OpenBubbles Docs. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
