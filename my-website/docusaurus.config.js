@@ -71,7 +71,16 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+      ({
+                  announcementBar: {
+                      id: 'work_in_progress',
+                      content:
+                          ' This site is a work in progress ',
+                      backgroundColor: '#fafbfc',
+                      textColor: '#091E42',
+                      isCloseable: false,
+                  },
+              
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {

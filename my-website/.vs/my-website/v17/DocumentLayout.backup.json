@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\tags.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog\\tags.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\2021-08-26-welcome\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog\\2021-08-26-welcome\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2021-08-01-mdx-blog-post.mdx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog\\_2021-08-01-mdx-blog-post.mdx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2019-05-29-long-blog-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog\\_2019-05-29-long-blog-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2019-05-28-first-blog-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog\\_2019-05-28-first-blog-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\authors.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog\\authors.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\docusaurus.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docusaurus.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -46,11 +70,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tags.yml",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\tags.yml",
+              "RelativeDocumentMoniker": "blog\\tags.yml",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\tags.yml",
+              "RelativeToolTip": "blog\\tags.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-28T16:31:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_2021-08-01-mdx-blog-post.mdx",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2021-08-01-mdx-blog-post.mdx",
+              "RelativeDocumentMoniker": "blog\\_2021-08-01-mdx-blog-post.mdx",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2021-08-01-mdx-blog-post.mdx",
+              "RelativeToolTip": "blog\\_2021-08-01-mdx-blog-post.mdx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T16:26:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_2019-05-29-long-blog-post.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2019-05-29-long-blog-post.md",
+              "RelativeDocumentMoniker": "blog\\_2019-05-29-long-blog-post.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2019-05-29-long-blog-post.md",
+              "RelativeToolTip": "blog\\_2019-05-29-long-blog-post.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-28T16:26:39.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_2019-05-28-first-blog-post.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2019-05-28-first-blog-post.md",
+              "RelativeDocumentMoniker": "blog\\_2019-05-28-first-blog-post.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\_2019-05-28-first-blog-post.md",
+              "RelativeToolTip": "blog\\_2019-05-28-first-blog-post.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-28T16:25:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\2021-08-26-welcome\\index.md",
+              "RelativeDocumentMoniker": "blog\\2021-08-26-welcome\\index.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\2021-08-26-welcome\\index.md",
+              "RelativeToolTip": "blog\\2021-08-26-welcome\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-28T16:25:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "authors.yml",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\authors.yml",
+              "RelativeDocumentMoniker": "blog\\authors.yml",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\blog\\authors.yml",
+              "RelativeToolTip": "blog\\authors.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-28T16:26:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "sidebars.js",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\sidebars.js",
               "RelativeDocumentMoniker": "sidebars.js",
@@ -58,12 +160,11 @@
               "RelativeToolTip": "sidebars.js",
               "ViewState": "AgIAAAkAAAAAAAAAAADwvxkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-28T04:27:05.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T04:27:05.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "intro.md",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\docs\\intro.md",
               "RelativeDocumentMoniker": "docs\\intro.md",
@@ -71,12 +172,11 @@
               "RelativeToolTip": "docs\\intro.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-28T00:11:14.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T00:11:14.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\src\\components\\HomepageFeatures\\index.js",
               "RelativeDocumentMoniker": "src\\components\\HomepageFeatures\\index.js",
@@ -84,12 +184,11 @@
               "RelativeToolTip": "src\\components\\HomepageFeatures\\index.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-27T03:38:28.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T03:38:28.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_index.js",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\src\\pages\\_index.js",
               "RelativeDocumentMoniker": "src\\pages\\_index.js",
@@ -97,25 +196,24 @@
               "RelativeToolTip": "src\\pages\\_index.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-27T04:18:06.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T04:18:06.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "docusaurus.config.js",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\docusaurus.config.js",
               "RelativeDocumentMoniker": "docusaurus.config.js",
               "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\docusaurus.config.js",
               "RelativeToolTip": "docusaurus.config.js",
-              "ViewState": "AgIAAFEAAAAAAAAAAAD4v2UAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwGUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-08-27T04:11:48.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "styles.module.css",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\src\\components\\HomepageFeatures\\styles.module.css",
               "RelativeDocumentMoniker": "src\\components\\HomepageFeatures\\styles.module.css",
@@ -123,12 +221,11 @@
               "RelativeToolTip": "src\\components\\HomepageFeatures\\styles.module.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-28T04:16:08.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T04:16:08.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "create-a-blog-post.md",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\docs\\tutorial-basics\\create-a-blog-post.md",
               "RelativeDocumentMoniker": "docs\\tutorial-basics\\create-a-blog-post.md",
@@ -136,12 +233,11 @@
               "RelativeToolTip": "docs\\tutorial-basics\\create-a-blog-post.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-28T04:12:32.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T04:12:32.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "congratulations.md",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\docs\\tutorial-basics\\congratulations.md",
               "RelativeDocumentMoniker": "docs\\tutorial-basics\\congratulations.md",
@@ -149,12 +245,11 @@
               "RelativeToolTip": "docs\\tutorial-basics\\congratulations.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-28T04:12:29.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T04:12:29.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\my-website\\src\\css\\custom.css",
               "RelativeDocumentMoniker": "src\\css\\custom.css",
@@ -162,8 +257,7 @@
               "RelativeToolTip": "src\\css\\custom.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-27T03:42:43.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T03:42:43.129Z"
             }
           ]
         }
