@@ -1,10 +1,11 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# OpenBubbles Docs
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's learn all about **OpenBubles**.
 
 ## Getting Started
 

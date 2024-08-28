@@ -39,7 +39,8 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+          docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -84,7 +85,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -98,10 +99,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pages',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs',
                 to: '/docs/intro',
               },
             ],
@@ -109,11 +110,15 @@ const config = {
           {
             title: 'Community',
             items: [
-             
+                {
+                    label: 'Blog',
+                    href: '/docs/blog',
+                },
               {
                 label: 'Discord',
                     href: 'https://discord.gg/98fWS4AQqN',
-              },
+                },
+
               
             ],
           },
@@ -125,8 +130,12 @@ const config = {
                     label: 'Report Issues',
                     href: 'https://github.com/TaeHagen/bluebubbles-app/issues',
                 },
+                {
+                    label: 'OpenBubbles Docs',
+                    href: 'https://github.com/OpenBubbles/docs/',
+                },
               {
-                label: 'GitHub',
+                label: 'OpenBubbles GitHub',
                   href: 'https://github.com/TaeHagen/bluebubbles-app/tree/rustpush',
               },
             ],
