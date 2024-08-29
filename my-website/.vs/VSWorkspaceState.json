@@ -3,7 +3,6 @@
     "",
     "\\docs",
     "\\docs\\After Setup",
-    "\\docs\\App Settings",
     "\\docs\\Setup",
     "\\src",
     "\\src\\css",
@@ -11,6 +10,6 @@
     "\\static",
     "\\static\\img"
   ],
-  "SelectedNode": "\\docs\\After Setup\\after.md",
+  "SelectedNode": "\\docs\\Setup\\installation.md",
   "PreviewInSolutionExplorer": false
 }

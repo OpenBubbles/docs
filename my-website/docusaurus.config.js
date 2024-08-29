@@ -60,7 +60,7 @@ const config = {
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -136,7 +136,7 @@ const config = {
             items: [
               
                 {
-                    label: 'Report Issues',
+                    label: 'Report OpenBubbles Issues',
                     href: 'https://github.com/TaeHagen/bluebubbles-app/issues',
                 },
                 {

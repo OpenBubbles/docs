@@ -15,4 +15,4 @@ https://play.google.com/store/apps/details?id=com.openbubbles.messaging
 ## Microsoft Store
 ~~https://apps.microsoft.com/detail/9pjmsnsqd0fv?gl=US&hl=en-US~~
 
-App got taken down due to a Microsoft policy violation
+App is not available at the moment.
