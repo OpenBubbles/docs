@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\support.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\support.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\_category_.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\After Setup\\_category_.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\readreceipts.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\After Setup\\readreceipts.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\after.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\After Setup\\after.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\_category_.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\_category_.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\machardware.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\machardware.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\installation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\installation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\pnr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\pnr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\faq.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\faq.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -22,24 +54,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_category_.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\_category_.json",
+              "RelativeDocumentMoniker": "docs\\Setup\\_category_.json",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\_category_.json",
+              "RelativeToolTip": "docs\\Setup\\_category_.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T21:40:14.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pnr.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\pnr.md",
+              "RelativeDocumentMoniker": "docs\\Setup\\pnr.md",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\pnr.md",
+              "RelativeToolTip": "docs\\Setup\\pnr.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T21:39:32.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "machardware.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\machardware.md",
+              "RelativeDocumentMoniker": "docs\\Setup\\machardware.md",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\machardware.md",
+              "RelativeToolTip": "docs\\Setup\\machardware.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T21:39:31.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "installation.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\installation.md",
+              "RelativeDocumentMoniker": "docs\\Setup\\installation.md",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\Setup\\installation.md",
+              "RelativeToolTip": "docs\\Setup\\installation.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T21:39:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_category_.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\_category_.json",
+              "RelativeDocumentMoniker": "docs\\After Setup\\_category_.json",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\_category_.json",
+              "RelativeToolTip": "docs\\After Setup\\_category_.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T21:38:24.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "support.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\support.md",
+              "RelativeDocumentMoniker": "docs\\support.md",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\support.md",
+              "RelativeToolTip": "docs\\support.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T21:34:02.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "after.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\after.md",
+              "RelativeDocumentMoniker": "docs\\After Setup\\after.md",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\after.md",
+              "RelativeToolTip": "docs\\After Setup\\after.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T21:12:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readreceipts.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\readreceipts.md",
+              "RelativeDocumentMoniker": "docs\\After Setup\\readreceipts.md",
+              "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\After Setup\\readreceipts.md",
+              "RelativeToolTip": "docs\\After Setup\\readreceipts.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T21:11:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "faq.md",
               "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\faq.md",
               "RelativeDocumentMoniker": "docs\\faq.md",
               "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\faq.md",
               "RelativeToolTip": "docs\\faq.md",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-08-29T20:34:03.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "info.md",
               "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\info.md",
               "RelativeDocumentMoniker": "docs\\info.md",
@@ -52,15 +188,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "intro.md",
               "DocumentMoniker": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\intro.md",
               "RelativeDocumentMoniker": "docs\\intro.md",
               "ToolTip": "C:\\Users\\Lenovo-User\\Downloads\\OB\\github-projects\\docs\\docs\\intro.md",
               "RelativeToolTip": "docs\\intro.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-29T20:29:07.728Z"
+              "WhenOpened": "2024-08-29T20:29:07.728Z",
+              "EditorCaption": ""
             }
           ]
         },

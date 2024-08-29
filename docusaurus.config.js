@@ -141,7 +141,7 @@ const config = {
                 },
                 {
                     label: 'OpenBubbles Docs',
-                    href: 'https://github.com/OpenBubbles/docs/',
+                    href: 'https://github.com/obdocs/docs/',
                 },
               {
                 label: 'OpenBubbles GitHub',
