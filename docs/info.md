@@ -6,7 +6,11 @@ sidebar_position: 2
 OpenBubbles is a app that allows for you to use iMessage on your 
 android/desktop devices. 
 
-**Disclaimer: OpenBubbles is in active development and there may be bugs and other various issues with iMessage features. OpenBubbles does not have 100% feature parity with BlueBubbles. You may experience issues with sending and receiving messages. OpenBubbles does not guarantee 100 percent uptime and stability.**
+**Disclaimer: OpenBubbles is in active development and there may be bugs and other various issues with iMessage features. 
+OpenBubbles does not have 100% feature parity with BlueBubbles. 
+You may experience issues with sending and receiving messages. 
+OpenBubbles does not guarantee 100 percent uptime and stability. 
+You are responsible for your device and the sharing of hardware codes and your AppleID**
 
 The codebase for OpenBubbles currently lives here:
 

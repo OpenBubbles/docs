@@ -37,7 +37,11 @@ sidebar_position: 3
 
 * An immense effort has been made to ensure a reliable and safe experience. That being said, iMessage is a complex and changing system, and every situation cannot be predicted. Everything happens on your phone, and anything that happens is strictly between you and Apple. Most issues will only affect OpenBubbles, and will not affect other devices or your account. In extremely rare cases, your account may be temporarily (day or two) or permanently blocked. In permanent cases, a call with Apple support will usually lift the block.
 
-* You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _will_ be blocked, and you only have yourself to blame. If you share one device with over 20 users, you may experience issues. To potentially resolve this issue go to https://appleid.apple.com/ and delete any duplicate devices with the same serial numbers and 2fa statuses and try again.
+* You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _will_ be blocked, and you only have yourself to blame. If you share one device with over 20 users, you may experience issues.
+
+## I am having issues logging into my AppleID, how to fix?
+* To potentially resolve this issue go to https://appleid.apple.com/ and delete any duplicate devices with the same serial numbers and 2fa statuses and try again.
+
 
 ## Can I register my phone number with OpenBubbles?
 
