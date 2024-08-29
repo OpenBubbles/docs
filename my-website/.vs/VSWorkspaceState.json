@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blog",
-    "\\blog\\2024-08-28-welcome",
     "\\docs",
+    "\\docs\\After Setup",
+    "\\docs\\App Settings",
+    "\\docs\\Setup",
     "\\src",
     "\\src\\css",
     "\\src\\pages",
     "\\static",
     "\\static\\img"
   ],
-  "SelectedNode": "\\docusaurus.config.js",
+  "SelectedNode": "\\docs\\After Setup\\after.md",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,8 @@
+{
+  "label": "After Setup",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": Things to do after you setup OpenBubbles
+  }
+}
