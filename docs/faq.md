@@ -9,18 +9,19 @@ sidebar_position: 3
 
 ## What is "Hardware Info"?&#x20;
 
-* During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc) are sent to Apple for validation. Because of this, OpenBubbles requires valid machine identifiers to send to Apple during activation.
+* During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. Because of this, OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this info in the app as hardware codes.
 
 ## How can I obtain hardware info?
 
-* If you have access to a Mac. Run the [ hardware info app](https://github.com/TaeHagen/Mac-Hardware-Info/releases) on the Mac, then scan the QR code.
+* If you have access to a Mac. Visit this site [ hardware info app](https://github.com/TaeHagen/Mac-Hardware-Info/releases) on the Mac. 
+* Once installed, you will receive a code you can paste into OpenBubbles and a code you can scan with the app for ease of use.
 
 ## Can OpenBubbles import existing messages? 
-* If you have a previous OpenBubbles message backup, yes. To create a backup go to Settings,Backup & Restore,Messages Backups and press create new. Otherwise, not at this time. OpenBubbles cannot backfill messages from iCloud.
+* If you have a previous OpenBubbles message backup, yes. To create a backup, go to Settings, Backup & Restore, Messages Backups and press create new. Otherwise, not at this time. OpenBubbles cannot backfill messages from iCloud.
 
 ## What if I do not have access to a Mac?
 
-* If you don't have access to a Mac. Ask a friend to share their code with you. They can share it from the hardware info app on the Mac, or from settings inside OpenBubbles. One Mac can be used by up to 20 users.
+* If you don't have access to a Mac. Ask a friend to share their code with you. They can share it from the hardware info app on the Mac, or from settings inside OpenBubbles. One Mac can be used by up to 20 users (20 users, not 20 logins).
 
 ## Does the Mac need to stay online?&#x20;
 
@@ -40,7 +41,7 @@ sidebar_position: 3
 * You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _will_ be blocked, and you only have yourself to blame. If you share one device with over 20 users, you may experience issues.
 
 ## I am having issues logging into my AppleID, how to fix?
-* To potentially resolve this issue go to https://appleid.apple.com/ and delete any duplicate devices with the same serial numbers and 2fa statuses and try again.
+* To potentially resolve this issue, go to https://appleid.apple.com/, delete any duplicate devices with the same serial numbers and 2fa statuses and try again.
 
 
 ## Can I register my phone number with OpenBubbles?
@@ -54,3 +55,16 @@ sidebar_position: 3
 ## Does OpenBubbles work with facetime?
 
 * No, OpenBubbles does not work with facetime.
+
+## Why can't I send & receive messages?
+
+There may be various reasons why this is happening. But here are some reasons this could be happening. Visit the discord for help.
+
+Also note that OpenBubbles is not responsible for your AppleID or any Apple devices, so if this issue persists OpenBubbles is not responsible.
+
+* You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method
+* You have Advanced Data Protection enabled - Disable this 
+* You have Contact Key Verification enabled - Disable this
+* You have been put under some moderation by Apple - Visit this [site](https://rentry.org/applebans) to learn more
+
+**Note:** This linked resource was created before OpenBubbles existed but may be relevant to not being able to send & receive messages.
