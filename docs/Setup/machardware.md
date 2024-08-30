@@ -4,10 +4,11 @@ sidebar_position: 3
 # Hardware Info
 OpenBubbles **NEEDS** hardware info from genuine Apple hardware to function. OpenBubbles works **BEST** with Mac hardware information.
 
-You may also need to disable Advanced Data Protection and Contact Key Verification. There may be issues with sending and receiving if they are not turned off
+You will also need to disable Advanced Data Protection and Contact Key Verification. There may be issues with sending and receiving if they are not turned off.
 
 ## What is "Hardware Info"?
-During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. Because of this, OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this info in the app as hardware codes.
+During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. 
+Because of this, OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this info in the app as hardware codes.
 
 ## How can I obtain hardware info?
 If you have access to Mac, visit this site.
