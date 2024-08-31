@@ -4,6 +4,7 @@ sidebar_position: 3
 # Hardware Info
 OpenBubbles **NEEDS** hardware info from genuine Apple hardware to function. OpenBubbles works **BEST** with Mac hardware information.
 
+## Do this first
 You will also need to disable Advanced Data Protection and Contact Key Verification. There may be issues with sending and receiving if they are not turned off.
 
 ## What is "Hardware Info"?

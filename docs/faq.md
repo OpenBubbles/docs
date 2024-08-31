@@ -13,7 +13,7 @@ sidebar_position: 3
 
 ## How can I obtain hardware info?
 
-* If you have access to a Mac. Visit this site [ hardware info app](https://github.com/TaeHagen/Mac-Hardware-Info/releases) on the Mac. 
+* If you have access to a Mac. Visit this site to get the [hardware info app](https://github.com/TaeHagen/Mac-Hardware-Info/releases) on the Mac. 
 * Once installed, you will receive a code you can paste into OpenBubbles and a code you can scan with the app for ease of use.
 
 ## Can OpenBubbles import existing messages? 

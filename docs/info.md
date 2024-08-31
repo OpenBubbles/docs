@@ -16,7 +16,7 @@ The codebase for OpenBubbles currently lives here:
 
 https://github.com/TaeHagen/bluebubbles-app/tree/rustpush
 
-The client is based off of [BlueBubbles](https://bluebubbles.app/)(not affiliated), and developed by TaeHagen(Copperboy100 on [Discord](https://discord.gg/98fWS4AQqN)).
+The client is based off of [BlueBubbles](https://bluebubbles.app/)(although not affiliated, thank you to the [BlueBubbles team](https://github.com/orgs/BlueBubblesApp/people) for the additonal help), and developed by [TaeHagen](https://github.com/TaeHagen)(Copperboy100 on [Discord](https://discord.gg/98fWS4AQqN)).
 
 ## Apple hardware is REQUIRED to use OpenBubbles in some way shape or form. The device MUST be able to connect to iMessage.
 
