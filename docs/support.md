@@ -5,6 +5,9 @@ sidebar_position: 4
 # Support
 **Note: OpenBubbles is not responsible for your AppleID or any Apple devices, so if issues continue to persist OpenBubbles is not responsible.
 OpenBubbles works best with Mac Hardware codes, and using only an AppleID at one time or a phone number may fix issues.**
+
+**The following guide contain links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.**
+
 ## Suggestions & Reporting Issues
 
 If you wish to report bugs, issues and suggestions with the OpenBubbles app itself please visit:
@@ -23,7 +26,7 @@ https://discord.gg/98fWS4AQqN
 When you first install OpenBubbles, your contacts may not be properly displayed. In order to fix this, restart your phone.
 
 ### Issues with sending large attachments
-OpenBubbles file size limit is 1 GB. Although this will vary depending on device hardware(700MB-850MB for most devices).
+OpenBubbles file size limit is 1 GB. Although this will vary depending on device hardware (700MB-850MB for most devices).
 
 If the device your OpenBubbles has less RAM expect the app to fail at lower file size limits.
 
@@ -36,6 +39,7 @@ If the device your OpenBubbles has less RAM expect the app to fail at lower file
 
 There may be various reasons why this is happening. But here are some reasons this could be happening and how to potentially fix them. Visit the discord for help.
 
+* Running clear identiy cache (Go to settings, troubleshooting) - This may help with sending messages.
 * Make sure iMessage/Facetime is disabled on your iPhone
 * You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
 * Advanced Data Protection is enabled - Disable this option

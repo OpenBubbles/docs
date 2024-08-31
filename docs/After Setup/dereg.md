@@ -20,7 +20,7 @@ To deregister it depends on the method that was used to register. Follow the gui
 
 Go to settings, reset, just change hardware (if you intend to keep using OpenBubbles, with different hardware).
 
-If you are not using OpenBubbles anymore tap everything. 
+If you are not using OpenBubbles anymore and do not want to backup your messages tap everything. 
 You also need to visit https://appleid.apple.com/ and delete the Mac that was used with OpenBubbles. 
 
 * Simswap - 

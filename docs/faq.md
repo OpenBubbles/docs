@@ -5,7 +5,7 @@ sidebar_position: 3
 
 
 # FAQ
-
+**The following faq contain links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.**
 
 ## What is "Hardware Info"?&#x20;
 
@@ -63,6 +63,7 @@ OpenBubbles works best with Mac Hardware codes, and using only an AppleID at one
 
 There may be various reasons why this is happening. But here are some reasons this could be happening and how to potentially fix them. Visit the discord for help.
 
+* Running clear identiy cache (Go to settings, troubleshooting) - This may help with sending messages.
 * Make sure iMessage/Facetime is disabled on your iPhone
 * You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
 * Advanced Data Protection is enabled - Disable this option
@@ -76,4 +77,4 @@ There may be various reasons why this is happening. But here are some reasons th
 * This is a known issues and fixes itself after 24 hours.
 
 ###
-**Credits**: This FAQ was written mainly by Copperboy100 and edited by CloudRealm
+**Credits**: This FAQ was written mainly by [Copperboy100](https://github.com/TaeHagen) and edited by CloudRealm

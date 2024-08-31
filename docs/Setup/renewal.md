@@ -27,7 +27,7 @@ If you have problems with renewing your registration here is what you can do.
 
 * Check if your device is powered on.
 * Check if your device is connected to Wi-fi
-* Change Auto-Lock to never on your device (This may lead to screen burn in)
+* Change Auto-Lock to never on your device (This may lead to screen burn in, to mitigate this adjust the brightness to the lowest setting)
 
 
 

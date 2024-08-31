@@ -4,6 +4,8 @@ sidebar_position: 3
 # Phone Number Registration
 **DISCLAIMER**: **Phone Number Registration is not perfect and it has various issues and may not be as reliable, different carriers may also not play nicely with the Sim swap methods, OpenBubbles operates BEST with Mac hardware codes.**
 
+**The following guide contain links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.**
+
 Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings/setup. 
 You can also choose to skip logging in with AppleID. This may lead to less issues with certain users.
 
@@ -42,20 +44,21 @@ If you are on older iOS versions 10 - 14 and jailbroken follow these steps:
 4. Retrieve the relay code in /var/mobile
 5. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-If you are on newer versions of iOS where you cannot jailbreak follow these steps.
+There are other ways to sideload on iOS on newer versions here is a third-party guide. Follow them to sideload a relay app.
 
-1. Use this guide to sideload apps and sideload trollstore.
-2. 
+Use this guide to sideload apps and sideload trollstore.
+https://np.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/
 
 ## More Methods
 Note: These methods/guides were made before OpenBubbles existed.
 https://docs.bluebubbles.app/server/advanced/registering-a-phone-number-with-your-imessage-account (OpenBubbles is not affiliated with BlueBubbles)
+
 
 ## DO NOT USE
 ~~https://github.com/thatmarcel/beepserv-rewrite~~
 
 It is known to be **extremely unreliable** and usually only works once.
 
----
-**Credits** : pypush, jjtech, Alfie, BlueBubbles Team, danip and Copperboy100
----
+###
+**Credits** : [pypush, jjtech, Alfie,](https://discord.com/channels/1130633272595066880/1135636248019615874/1231003645529817139) [BlueBubbles Team](https://github.com/orgs/BlueBubblesApp/people), [danip](https://discord.com/channels/1130633272595066880/1135636248019615874/1231003645529817139), [cjocollin](https://www.reddit.com/r/BlueBubbles/comments/1938ock/stop_using_old_methods_heres_a_new_one/) and [Copperboy100](https://github.com/TaeHagen)
+###

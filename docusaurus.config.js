@@ -8,67 +8,70 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OpenBubbles',
-  tagline: 'OpenBubbles Documentation',
-  favicon: 'img/favicon.ico',
+    title: 'OpenBubbles',
+    tagline: 'OpenBubbles Documentation',
+    favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+    // Set the production url of your site here
+    url: 'https://obdocs.github.io',
+    // Set the /<baseUrl>/ pathname under which your site is served
+    // For GitHub pages deployment, it is often '/<projectName>/'
+    baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'OpenBubbles', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+    // GitHub pages deployment config.
+    // If you aren't using GitHub pages, you don't need these.
+    organizationName: 'obdocs', // Usually your GitHub org/user name.
+    projectName: 'docs', // Usually your repo name.
+    // deploymentBranch: 'deployment',
+    onBrokenLinks: 'warn',
+    onBrokenMarkdownLinks: 'warn',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+    // Even if you don't use internationalization, you can use this field to set
+    // useful metadata like html lang. For example, if your site is Chinese, you
+    // may want to replace "en" with "zh-Hans".
+    i18n: {
+        defaultLocale: 'en',
+        locales: ['en'],
+    },
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
-
-  presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-          docs: {
-          routeBasePath: '/',
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-            
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'ignore',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
+    presets: [
+        [
+            'classic',
+            /** @type {import('@docusaurus/preset-classic').Options} */
+            ({
+                docs: {
+                    routeBasePath: '/',
+                    sidebarPath: './sidebars.js',
+                    // Please change this to your repo.
+                    // Remove this to remove the "edit this page" links.
+                    // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    showLastUpdateAuthor: true,
+                    showLastUpdateTime: true,
+                },
+                blog: {
+                    showReadingTime: true,
+                    feedOptions: {
+                        type: ['rss', 'atom'],
+                        xslt: true,
+                    },
+                    // Please change this to your repo.
+                    // Remove this to remove the "edit this page" links.
+                    editUrl:
+                        'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    // Useful options to enforce blogging best practices
+                    onInlineTags: 'warn',
+                    onInlineAuthors: 'warn',
+                    onUntruncatedBlogPosts: 'ignore',
+                },
+                theme: {
+                    customCss: './src/css/custom.css',
+                },
+            }),
+        ],
     ],
-  ],
-
+    plugins: [[require.resolve("docusaurus-lunr-search"), {
+        enableHighlight: true
+    }]],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
@@ -112,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
@@ -121,7 +124,7 @@ const config = {
             items: [
                 {
                     label: 'Blog',
-                    href: '/docs/blog',
+                    href: '/blog',
                 },
               {
                 label: 'Discord',
