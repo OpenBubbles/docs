@@ -30,7 +30,7 @@ If the device your OpenBubbles has less RAM expect the app to fail at lower file
 
 ### Why can't I see my messages sent on OpenBubbles on other Apple devices, even though my AppleID is linked?
 
-* This is a known issues and fixes itself after 24 hours.
+* This is a known issues and should fix itself after 24 hours.
 
 ### Why can't I send & receive messages?
 
