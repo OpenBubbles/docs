@@ -21,25 +21,27 @@ Note: This guide was also created before OpenBubbles existed but is a good resou
 [All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
 
 ## Relay Apps
-This is dependent on jailbreak status. It is also advised to keep the device on at all times and connected to Wi-Fi in order to keep phone number registration. While not required, leaving the display on may improve reliability.
+It is also advised to keep the device on at all times and connected to Wi-Fi in order to keep phone number registration. 
+While not required, leaving the display on may improve reliability.
 
-### If your device is not jailbroken. Then follow the following steps.
-There are multiple ways to install relay apps in you are not jailbroken here are the guides: 
+### Method 1
+There are multiple ways to install the required relay app. The following guides can be followed regardless of jailbreak status: 
 
-Guide 1:
+Guide 1 - Sideloading Beepserv:
 1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple ID required for sideloading).
 2. Open the Beepserv Installer app to install and enable beepserv.
-3. Turn off iMessage.
-4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
+3. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-Guide 2:
+Guide 2 - TrollStore:
 
 1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
-2. Turn off iMessage, if you have testflight installed, delete it.
+2. If you have testflight installed, delete it.
 3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file, download the TestFlight one it typically works better. Then open trollstore and sideload the file.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-### If you are on older iOS versions 10 - 14 and jailbroken follow these steps: 
+### Method 2
+
+If you are on older iOS versions 10 - 14 and jailbroken follow these steps: 
 
 Note: Currently Copperboy's relay server arm64 file on the gitbub linked above not working
 
@@ -50,9 +52,8 @@ Download the working arm64 file [here](https://cdn.discordapp.com/attachments/12
 4. Retrieve the relay code in /var/mobile
 5. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-There are other ways to sideload on iOS on newer versions here is a third-party guide. Follow them to sideload a relay app.
+There are other ways to sideload on iOS on newer versions, follow this third-party guide to sideload a relay app and trollstore.
 
-Use this guide to sideload apps and sideload trollstore.
 https://np.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/
 
 ## More Methods
