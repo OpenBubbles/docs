@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
     "\\docs",
     "\\docs\\After Setup",
     "\\docs\\Setup",
@@ -11,5 +10,6 @@
     "\\static",
     "\\static\\img"
   ],
+  "SelectedNode": "\\docs\\Setup\\machardware.md",
   "PreviewInSolutionExplorer": false
 }
