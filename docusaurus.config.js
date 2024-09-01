@@ -22,7 +22,7 @@ const config = {
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'obdocs', // Usually your GitHub org/user name.
     projectName: 'docs', // Usually your repo name.
-    deploymentBranch: 'deployment',
+    deploymentBranch: 'gh-pages',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     trailingSlash: false,
