@@ -25,7 +25,9 @@ It is also advised to keep the device on at all times and connected to Wi-Fi in 
 While not required, leaving the display on may improve reliability.
 
 ### Method 1
-There are multiple ways to install the required relay app. The following guides can be followed regardless of jailbreak status: 
+There are multiple ways to install the required relay app. 
+If Guide 1 does not work, try guide 2.
+The following guides can be followed regardless of jailbreak status: 
 
 Guide 1 - Sideloading Beepserv:
 1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple ID required for sideloading).
