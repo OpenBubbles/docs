@@ -24,7 +24,7 @@ Note: This guide was also created before OpenBubbles existed but is a good resou
 This is dependent on jailbreak status. It is also advised to keep the device on at all times and connected to Wi-Fi in order to keep phone number registration. While not required, leaving the display on may improve reliability.
 If your device is not jailbroken. Then follow the following steps.
 
-1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) to sideload the [provided beepserv installer IPA](https://cdn.discordapp.com/attachments/1130641573244317736/1230994423958077450/beepserv_installer_v0.1.ipa?ex=66d0e8e5&is=66cf9765&hm=04366038bd916e9b5e04e217a2023df6a39ee3877e7b1eba827b95a36940ca29&) onto your iPhone (Apple ID required for sideloading).
+1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple ID required for sideloading).
 2. Open the Beepserv Installer app to install and enable beepserv.
 3. Turn off iMessage.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").

@@ -38,6 +38,5 @@ One Mac can be used by up to 20 users (20 users, not 20 logins).
 ## Does the Mac need to stay online?&#x20;
 
 No! Once you have setup OpenBubbles, feel free to turn off, discard, or do anything you wish with your Mac.
-You can generate more hardware codes to share in OpenBubbles in settings (only if Mac hardware code was used for initial registration).
 Keep in mind the physical Mac may still be useful for troubleshooting
 
