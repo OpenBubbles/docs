@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github\\workflows",
     "\\docs",
     "\\docs\\After Setup",
     "\\docs\\Setup",
