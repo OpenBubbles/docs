@@ -22,25 +22,28 @@ Note: This guide was also created before OpenBubbles existed but is a good resou
 
 ## Relay Apps
 This is dependent on jailbreak status. It is also advised to keep the device on at all times and connected to Wi-Fi in order to keep phone number registration. While not required, leaving the display on may improve reliability.
-If your device is not jailbroken. Then follow the following steps.
 
+### If your device is not jailbroken. Then follow the following steps.
+There are multiple ways to install relay apps in you are not jailbroken here are the guides: 
+
+Guide 1:
 1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple ID required for sideloading).
 2. Open the Beepserv Installer app to install and enable beepserv.
 3. Turn off iMessage.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-If you are jailbroken follow these steps:
+Guide 2:
 
 1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
 2. Turn off iMessage, if you have testflight installed, delete it.
 3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file, download the TestFlight one it typically works better. Then open trollstore and sideload the file.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-If you are on older iOS versions 10 - 14 and jailbroken follow these steps: 
+### If you are on older iOS versions 10 - 14 and jailbroken follow these steps: 
 
 Note: Currently Copperboy's relay server arm64 file on the gitbub linked above not working
 
-Download the working arm64 file [here](https://cdn.discordapp.com/attachments/1273349815803314208/1276915932157055087/dev.copper.relayserver_0.0.1-8debug_iphoneos-arm64.deb?ex=66d47ea2&is=66d32d22&hm=ed6660e60c7915f50c2b4e07c1d53572cbf15b0f63964db554accb4923041fe7&) - This file works with rootless jailbreaks on iOS 15-16.5
+Download the working arm64 file [here](https://cdn.discordapp.com/attachments/1273349815803314208/1276915932157055087/dev.copper.relayserver_0.0.1-8debug_iphoneos-arm64.deb?ex=66d47ea2&is=66d32d22&hm=ed6660e60c7915f50c2b4e07c1d53572cbf15b0f63964db554accb4923041fe7&) - This file works with rootless jailbreaks on iOS (15-16.5)
 1. Download Copperboy100's - [RelayServer](https://github.com/TaeHagen/relayserver/releases)
 2. Install RelayServer 
 3. Edit the config file in /var/mobile
