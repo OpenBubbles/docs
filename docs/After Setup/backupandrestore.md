@@ -3,9 +3,11 @@ sidebar_position: 4
 ---
 
 # Backup & Restore
-**Note: OpenBubbles does not support backup and restoring files from iCloud.**
-
+:::note
+OpenBubbles does not support backup and restoring files from iCloud.
 OpenBubbles **only** supports local backup and restore. (Only attachments under 16mb saved)
+:::
+
 
 ## Backing up and restoring
 You can backup settings, themes and messages. Here are the steps.

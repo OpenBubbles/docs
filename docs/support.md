@@ -3,9 +3,10 @@ sidebar_position: 4
 ---
 
 # Support
-**Note: OpenBubbles is not responsible for your Apple ID or any Apple devices.
-OpenBubbles works best with Mac Hardware codes, and using only an Apple ID at one time or a phone number may fix issues.**
-
+:::note
+OpenBubbles is not responsible for your Apple ID or any Apple devices.
+OpenBubbles works best with Mac Hardware codes, and using only an Apple ID at one time or a phone number may fix issues.
+:::
 ## Suggestions & Reporting Issues
 
 If you wish to report bugs, issues or suggestions with the OpenBubbles app itself please visit:

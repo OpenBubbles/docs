@@ -2,10 +2,11 @@
 sidebar_position: 3
 ---
 # Phone Number Registration
-**DISCLAIMER**: **Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates BEST with Mac hardware codes.**
+:::note[disclaimer]
+Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware codes.
 
-**The following guide contain links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.**
-
+The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.
+:::
 Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings or setup. 
 You can also choose to skip logging in with Apple ID. This may lead to less issues in some cases.
 
@@ -42,7 +43,7 @@ Guide 2 - TrollStore:
 
 If you are on older iOS versions(10 - 14) and jailbroken follow these steps: 
 
-Note: Currently Copperboy's relay server arm64 file on the github linked above not working
+Note: Currently Copperboy's relay server arm64 file on the github linked is not working
 
 Download the working arm64 file [here](/files/dev.copper.relayserver_0.0.1-8+debug_iphoneos-arm64.deb) - This file works with rootless jailbreaks on iOS (15-16.5)
 1. Download Copperboy100's - [RelayServer](https://github.com/TaeHagen/relayserver/releases)

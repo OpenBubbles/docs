@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\pnr.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\pnr.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\intro.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\intro.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\machardware.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\machardware.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\faq.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\faq.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\installation.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\installation.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docusaurus.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docusaurus.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\renewal.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\renewal.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\support.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\support.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\after.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\After Setup\\after.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\dereg.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\After Setup\\dereg.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\readreceipts.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\After Setup\\readreceipts.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\installation.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\installation.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\machardware.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\machardware.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\pnr.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Setup\\pnr.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\faq.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\faq.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\info.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\info.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\support.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\support.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,35 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pnr.md",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\pnr.md",
-              "RelativeDocumentMoniker": "docs\\Setup\\pnr.md",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\pnr.md",
-              "RelativeToolTip": "docs\\Setup\\pnr.md",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-31T19:46:42.809Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "intro.md",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\intro.md",
-              "RelativeDocumentMoniker": "docs\\intro.md",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\intro.md",
-              "RelativeToolTip": "docs\\intro.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-01T22:55:45.275Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -89,20 +58,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "faq.md",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\faq.md",
-              "RelativeDocumentMoniker": "docs\\faq.md",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\faq.md",
-              "RelativeToolTip": "docs\\faq.md",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwDAAAABZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "after.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\after.md",
+              "RelativeDocumentMoniker": "docs\\After Setup\\after.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\after.md",
+              "RelativeToolTip": "docs\\After Setup\\after.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-01T03:43:09.542Z",
+              "WhenOpened": "2024-09-03T02:13:26.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "dereg.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\dereg.md",
+              "RelativeDocumentMoniker": "docs\\After Setup\\dereg.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\dereg.md",
+              "RelativeToolTip": "docs\\After Setup\\dereg.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-03T02:13:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readreceipts.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\readreceipts.md",
+              "RelativeDocumentMoniker": "docs\\After Setup\\readreceipts.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\readreceipts.md",
+              "RelativeToolTip": "docs\\After Setup\\readreceipts.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-03T02:13:16.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "installation.md",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\installation.md",
               "RelativeDocumentMoniker": "docs\\Setup\\installation.md",
@@ -110,86 +103,67 @@
               "RelativeToolTip": "docs\\Setup\\installation.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-01T02:45:06.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T02:13:12.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "machardware.md",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\machardware.md",
               "RelativeDocumentMoniker": "docs\\Setup\\machardware.md",
               "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\machardware.md",
               "RelativeToolTip": "docs\\Setup\\machardware.md",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-31T04:08:13.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T02:13:03.274Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "support.md",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\support.md",
-              "RelativeDocumentMoniker": "docs\\support.md",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\support.md",
-              "RelativeToolTip": "docs\\support.md",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-30T23:42:11.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "renewal.md",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\renewal.md",
-              "RelativeDocumentMoniker": "docs\\Setup\\renewal.md",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\renewal.md",
-              "RelativeToolTip": "docs\\Setup\\renewal.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-30T23:40:00.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "docusaurus.config.js",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docusaurus.config.js",
-              "RelativeDocumentMoniker": "docusaurus.config.js",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docusaurus.config.js",
-              "RelativeToolTip": "docusaurus.config.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-31T19:48:15.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "info.md",
               "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\info.md",
               "RelativeDocumentMoniker": "docs\\info.md",
               "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\info.md",
               "RelativeToolTip": "docs\\info.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-31T04:09:23.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T02:11:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pnr.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\pnr.md",
+              "RelativeDocumentMoniker": "docs\\Setup\\pnr.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\Setup\\pnr.md",
+              "RelativeToolTip": "docs\\Setup\\pnr.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-03T02:10:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "faq.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\faq.md",
+              "RelativeDocumentMoniker": "docs\\faq.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\faq.md",
+              "RelativeToolTip": "docs\\faq.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-03T02:10:21.034Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "dereg.md",
-              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\dereg.md",
-              "RelativeDocumentMoniker": "docs\\After Setup\\dereg.md",
-              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\After Setup\\dereg.md",
-              "RelativeToolTip": "docs\\After Setup\\dereg.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Title": "support.md",
+              "DocumentMoniker": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\support.md",
+              "RelativeDocumentMoniker": "docs\\support.md",
+              "ToolTip": "C:\\Users\\PC-User\\Downloads\\OpenBubbles\\github-projects\\docs\\docs\\support.md",
+              "RelativeToolTip": "docs\\support.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-31T23:34:37.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T02:10:17.782Z"
             }
           ]
         },

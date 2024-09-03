@@ -8,7 +8,8 @@ sidebar_position: 3
 
 ## What is "Hardware Info"?&#x20;
 
-During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this data as "hardware info".
+During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. 
+OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this data as "hardware info".
 
 ## How can I obtain hardware info?
 
@@ -38,9 +39,9 @@ Once installed, you will receive a code you can paste into OpenBubbles and a cod
 ## Is OpenBubbles safe to use?&#x20;
 
 * Everything happens locally, on your phone. Anything that happens is strictly between you and Apple. An immense effort has been made to ensure a reliable and safe experience. That being said, iMessage is a complex and changing system, and every situation cannot be predicted. Most issues will only affect OpenBubbles, and will not affect other devices or your account. In extremely rare cases, your account may be temporarily (day or two) or permanently blocked. In permanent cases, a call with Apple support will usually lift the block.
-
-* You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _will_ be blocked, and you will only have yourself to blame. If you share one device with over 20 users, you may experience issues.
-
+:::note
+You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _**will**_ be blocked, and you will only have yourself to blame. If you share one device with over 20 users, you may experience issues.
+:::
 ## I am having issues logging into my Apple ID
 * To potentially resolve this issue, go to https://appleid.apple.com/, and delete any duplicate devices and try again.
 
