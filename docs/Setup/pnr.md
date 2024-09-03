@@ -2,30 +2,27 @@
 sidebar_position: 3
 ---
 # Phone Number Registration
-**DISCLAIMER**: **Phone Number Registration is not perfect and it has various issues and may not be as reliable, different carriers may also not play nicely with the Sim swap methods, OpenBubbles operates BEST with Mac hardware codes.**
+**DISCLAIMER**: **Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates BEST with Mac hardware codes.**
 
 **The following guide contain links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.**
 
-Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings/setup. 
-You can also choose to skip logging in with AppleID. This may lead to less issues with certain users.
+Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings or setup. 
+You can also choose to skip logging in with Apple ID. This may lead to less issues in some cases.
 
 ## Pre-Setup | Do this first
-Make sure iMessage/Facetime is disabled on your iPhone, you also need to disable Advanced Data Protection and Contact Key Verification.
-You may need a new AppleID for this process if your existing AppleID is blocked from iMessage.
+Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
 
 ## Sim / eSim Swaping Methods
-The guide linked below is made by a BlueBubbles community member found on the BlueBubbles docs website. 
 
-Note: This guide was also created before OpenBubbles existed but is a good resource for learning about sim swapping.
-
+Sim swapping is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data. You can follow the same guides used for BlueBubbles. However, this method can be even more unreliable than OB.
 [All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
 
 ## Relay Apps
-It is also advised to keep the device on at all times and connected to Wi-Fi in order to keep phone number registration. 
+Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
 While not required, leaving the display on may improve reliability.
 
 ### Method 1
-There are multiple ways to install the required relay app. 
+There are multiple methods to install the required relay app. 
 If Guide 1 does not work, try guide 2.
 The following guides can be followed regardless of jailbreak status: 
 
@@ -43,9 +40,9 @@ Guide 2 - TrollStore:
 
 ### Method 2
 
-If you are on older iOS versions 10 - 14 and jailbroken follow these steps: 
+If you are on older iOS versions(10 - 14) and jailbroken follow these steps: 
 
-Note: Currently Copperboy's relay server arm64 file on the gitbub linked above not working
+Note: Currently Copperboy's relay server arm64 file on the github linked above not working
 
 Download the working arm64 file [here](/files/dev.copper.relayserver_0.0.1-8+debug_iphoneos-arm64.deb) - This file works with rootless jailbreaks on iOS (15-16.5)
 1. Download Copperboy100's - [RelayServer](https://github.com/TaeHagen/relayserver/releases)
@@ -57,10 +54,6 @@ Download the working arm64 file [here](/files/dev.copper.relayserver_0.0.1-8+deb
 There are other ways to sideload on iOS on newer versions, follow this third-party guide to sideload a relay app and trollstore.
 
 https://np.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/
-
-## More Methods
-Note: These methods/guides were made before OpenBubbles existed.
-https://docs.bluebubbles.app/server/advanced/registering-a-phone-number-with-your-imessage-account (OpenBubbles is not affiliated with BlueBubbles)
 
 
 ## DO NOT USE
