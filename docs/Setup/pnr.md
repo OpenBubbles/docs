@@ -5,7 +5,7 @@ sidebar_position: 3
 :::note[disclaimer]
 Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware codes.
 
-The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their content can change at any time. Use at your own risk.
+The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their contents can change at any time. Use at your own risk.
 :::
 Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings or setup. 
 You can also choose to skip logging in with Apple ID. This may lead to less issues in some cases.
@@ -52,10 +52,11 @@ Download the working arm64 file [here](/files/dev.copper.relayserver_0.0.1-8+deb
 4. Retrieve the relay code in /var/mobile
 5. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 
-There are other ways to sideload on iOS on newer versions, follow this third-party guide to sideload a relay app and trollstore.
+There are other ways to sideload on iOS on newer versions, follow these third-party guides to sideload a relay app and trollstore.
 
 https://np.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/
 
+https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ
 
 ## DO NOT USE
 ~~https://github.com/thatmarcel/beepserv-rewrite~~
