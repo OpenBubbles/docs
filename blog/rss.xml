@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>OpenBubbles Blog</title>
-        <link>https://obdocs.github.io/docs/blog</link>
+        <link>https://OpenBubbles.github.io/docs/blog</link>
         <description>OpenBubbles Blog</description>
         <lastBuildDate>Wed, 28 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://obdocs.github.io/docs/blog/welcome</link>
-            <guid>https://obdocs.github.io/docs/blog/welcome</guid>
+            <link>https://OpenBubbles.github.io/docs/blog/welcome</link>
+            <guid>https://OpenBubbles.github.io/docs/blog/welcome</guid>
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi, welcome to the OpenBubbles documentation website. I hope you find it useful. The website is currently under construction and things might break.]]></description>
             <content:encoded><![CDATA[<p>Hi, welcome to the OpenBubbles documentation website. I hope you find it useful. The website is currently under construction and things might break.
