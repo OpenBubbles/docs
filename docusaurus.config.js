@@ -13,14 +13,14 @@ const config = {
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://obdocs.github.io',
+    url: 'https://OpenBubbles.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/docs/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'obdocs', // Usually your GitHub org/user name.
+    organizationName: 'OpenBubbles', // Usually your GitHub org/user name.
     projectName: 'docs', // Usually your repo name.
     deploymentBranch: 'gh-pages',
     onBrokenLinks: 'warn',
@@ -101,7 +101,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-              href: 'https://github.com/TaeHagen/bluebubbles-app/tree/rustpush',
+              href: 'https://github.com/OpenBubbles/bluebubbles-app/',
             label: 'GitHub',
             position: 'right',
           },
@@ -140,15 +140,15 @@ const config = {
               
                 {
                     label: 'Report OpenBubbles Issues',
-                    href: 'https://github.com/TaeHagen/bluebubbles-app/issues',
+                    href: 'https://github.com/OpenBubbles/bluebubbles-app/issues',
                 },
                 {
                     label: 'OpenBubbles Docs',
-                    href: 'https://github.com/obdocs/docs/',
+                    href: 'https://github.com/OpenBubbles/docs/',
                 },
               {
                 label: 'OpenBubbles GitHub',
-                  href: 'https://github.com/TaeHagen/bluebubbles-app/tree/rustpush',
+                  href: 'https://github.com/OpenBubbles/bluebubbles-app/',
               },
             ],
           },

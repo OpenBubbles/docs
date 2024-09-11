@@ -48,7 +48,7 @@ If you are on older iOS versions(10 - 14) and jailbroken follow these steps:
 Note: Currently Copperboy's relay server arm64 file on the github linked is not working
 
 Download the working arm64 file [here](/files/dev.copper.relayserver_0.0.1-8+debug_iphoneos-arm64.deb) - This file works with rootless jailbreaks on iOS (15-16.5)
-1. Download Copperboy100's - [RelayServer](https://github.com/TaeHagen/relayserver/releases)
+1. Download Copperboy100's - [RelayServer](https://github.com/OpenBubbles/relayserver/releases)
 2. Install RelayServer 
 3. Edit the config file in /var/mobile
 4. Retrieve the relay code in /var/mobile

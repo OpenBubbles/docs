@@ -13,7 +13,7 @@ OpenBubbles is **not** responsible for any negative effects you experience as a 
 
 The codebase for OpenBubbles currently lives here:
 
-https://github.com/TaeHagen/bluebubbles-app/tree/rustpush
+https://github.com/OpenBubbles/bluebubbles-app/
 
 The client is based off of [BlueBubbles](https://bluebubbles.app/) with the help of the [BlueBubbles team](https://github.com/orgs/BlueBubblesApp/people) (not affiliated).
 

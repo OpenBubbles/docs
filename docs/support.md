@@ -11,7 +11,7 @@ OpenBubbles works best with Mac Hardware codes, and using only an Apple ID at on
 
 If you wish to report bugs, issues or suggestions with the OpenBubbles app itself please visit:
 
-https://github.com/TaeHagen/bluebubbles-app/issues
+https://github.com/OpenBubbles/bluebubbles-app/issues
 
 ## Support & Community
 

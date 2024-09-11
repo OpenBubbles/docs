@@ -18,7 +18,7 @@ OpenBubbles requires valid machine identifiers to send to Apple during activatio
 ## How can I obtain hardware info?
 If you have access to Mac, visit this site.
 
-https://github.com/TaeHagen/Mac-Hardware-Info/releases
+https://github.com/OpenBubbles/Mac-Hardware-Info/releases
 
 Once installed, you will receive a code you can paste into OpenBubbles and a code you can scan with the app for ease of use.
 
