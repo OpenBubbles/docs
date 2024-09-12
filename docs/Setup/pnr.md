@@ -31,7 +31,7 @@ Guide 1 - Sideloading Beepserv:
 1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple ID required for sideloading).
 2. Open the Beepserv Installer app to install and enable beepserv.
 3. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
-4. Set location services to always for the relay app.(Go to Settings,Privacy & Security, Location Services and Relay)
+4. Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)
  
 Guide 2 - TrollStore:
 
@@ -39,7 +39,7 @@ Guide 2 - TrollStore:
 2. If you have testflight installed, delete it.
 3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file, download the TestFlight one it typically works better. Then open trollstore and sideload the file.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
-5. Set location services to always for the relay app.(Go to Settings,Privacy & Security, Location Services and Relay) 
+5. Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay) 
 
 ### Method 2
 
