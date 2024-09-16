@@ -46,4 +46,9 @@ Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
 * Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)
 * If using a VPN check if Apple domains and services are blocked.
 
+#### Debug registration setup issues
+* If you are getting the below message - call Apple support, to get help. (Do not mention OpenBubbles to support.)
+
+![Dell and Pixel Device image](/img/registration.png)
+
 
