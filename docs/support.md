@@ -30,7 +30,7 @@ When you first install OpenBubbles, your contacts may not be properly displayed.
 ### Why can't I send & receive messages?
 
 * Running clear identiy cache (Go to settings, troubleshooting) - This may help with sending messages.
-* Make sure iMessage/Facetime is disabled on your iPhone
+* Make sure iMessage/Facetime is disabled on your iPhone (Only if you are using [Relay Apps](https://openbubbles.github.io/docs/Setup/pnr#relay-apps))
 * You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
 * Advanced Data Protection is enabled - Disable this option
 * Contact Key Verification is enabled - Disable this option

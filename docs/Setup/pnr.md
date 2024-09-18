@@ -11,7 +11,7 @@ Learn how to get your phone number working on iMessage. The app will default to 
 You can also choose to skip logging in with Apple ID. This may lead to less issues in some cases.
 
 ## Pre-Setup | Do this first
-Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
+Make sure iMessage (Only if you are using [Relay Apps](https://openbubbles.github.io/docs/Setup/pnr#relay-apps)) and Facetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
 
 ## Sim / eSim Swaping Methods
 
