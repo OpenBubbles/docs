@@ -66,14 +66,7 @@ This means you are throttled by Apple. Wait a few hours/days and try again.
 
 ## Why can't I send or receive messages?
 
-* Running clear identity cache (Go to settings, troubleshooting) - This may help with sending messages.
-* Make sure iMessage and Facetime is disabled and you are logged out of iCloud if you are using an iPhone.
-* You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
-* Advanced Data Protection is enabled - Disable this option
-* Contact Key Verification is enabled - Disable this option
-* Your Apple ID/Hardware has been throttled/banned/blocked by Apple - Visit this [site](https://rentry.org/applebans) to learn more. You may need to create a new account.
-
-Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
+Visit - [Support Page | OpenBubbles](https://openbubbles.github.io/docs/support#why-cant-i-send--receive-messages)
 
 ## Why can't I see my messages sent on OpenBubbles on other Apple devices, even though my Apple ID is linked?
 

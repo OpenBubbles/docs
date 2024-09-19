@@ -51,4 +51,12 @@ Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
 
 ![registration issue](/img/registration.png)
 
+### Mac iMessage issues
+
+* If signing into iMessage does not work. You can visit this [site](https://apple.co/IMFT-mac) and try to fix the issue.
+
+* If the above site does not work - you may need to contact Apple support. 
+
+
+
 
