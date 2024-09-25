@@ -46,14 +46,9 @@ Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
 * Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)
 * If using a VPN check if Apple domains and services are blocked.
 
-#### Debug registration setup issues
-* If you are getting the below message - call Apple support, to get help. (Do not mention OpenBubbles to support.)
-
-![registration issue](/img/registration.png)
-
 ### Mac iMessage issues
 
-* If signing into iMessage does not work. You can visit this [site](https://apple.co/IMFT-mac) and try to fix the issue.
+* If you have issues with activating iMessage. You can visit this [site](https://apple.co/IMFT-mac) and try to fix the issue.
 
 * If the above site does not work - you may need to contact Apple support. 
 
