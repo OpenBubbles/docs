@@ -43,7 +43,8 @@ Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
 * Make sure your device is powered on.
 * Make sure your device is connected to Wi-fi
 * Change Auto-Lock to never on your device (This may lead to screen burn in, lowering brightness will help mitigate this)
-* Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)
+* Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~
+* Enable Keep Awake in relay app
 * If using a VPN check if Apple domains and services are blocked.
 
 ### Mac iMessage issues
