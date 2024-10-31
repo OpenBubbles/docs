@@ -38,9 +38,10 @@ Guide 2 - TrollStore:
 
 1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
 2. If you have testflight installed, delete it.
-3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file, download the TestFlight one it typically works better. Then open trollstore and sideload the file.
+3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file. Then open trollstore and sideload the file.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
-5. Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay) 
+5. Enable Keep Awake and Dim Display
+6. Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~ 
 
 ### Method 2
 
