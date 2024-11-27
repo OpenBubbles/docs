@@ -42,8 +42,8 @@ Once installed, you will receive a code you can paste into OpenBubbles and a cod
 :::note
 You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _**will**_ be blocked, and you will only have yourself to blame. If you share one device with over 20 users, you may experience issues.
 :::
-## I am having issues logging into my Apple ID
-* To potentially resolve this issue, go to https://appleid.apple.com/, and delete any duplicate devices and try again.
+## I am having issues logging into my Apple Account
+* To potentially resolve this issue, go to https://account.apple.com/, and delete any duplicate devices and try again.
 
 
 ## Can I register my phone number with OpenBubbles?
