@@ -101,7 +101,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-              href: 'https://github.com/OpenBubbles/bluebubbles-app/',
+              href: 'https://github.com/OpenBubbles/openbubbles-app',
             label: 'GitHub',
             position: 'right',
           },
@@ -140,7 +140,7 @@ const config = {
               
                 {
                     label: 'Report OpenBubbles Issues',
-                    href: 'https://github.com/OpenBubbles/bluebubbles-app/issues',
+                    href: 'https://github.com/OpenBubbles/openbubbles-app/issues',
                 },
                 {
                     label: 'OpenBubbles Docs',
@@ -148,7 +148,7 @@ const config = {
                 },
               {
                 label: 'OpenBubbles GitHub',
-                  href: 'https://github.com/OpenBubbles/bluebubbles-app/',
+                  href: 'https://github.com/OpenBubbles/openbubbles-app',
               },
             ],
           },

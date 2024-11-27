@@ -24,6 +24,10 @@ Your profile page shows the next _scheduled_ re-registration.
 * Make sure your device is powered on.
 * Make sure your device is connected to Wi-fi
 * Change Auto-Lock to never on your device (This may lead to screen burn in, lowering brightness will help mitigate this)
+* Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~
+* Enable Keep Awake in relay app
+* If using a VPN check if Apple domains and services are blocked.
+* Make sure relay app and OpenBubbles are updated 
 
 
 

@@ -8,7 +8,7 @@ Phone Number Registration may not be as reliable as Mac registration, and differ
 The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their contents can change at any time. Use at your own risk.
 :::
 Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings or setup. 
-You can also choose to skip logging in with Apple ID. This may lead to less issues in some cases.
+You can also choose to skip logging in with Apple Account. This may lead to less issues in some cases.
 
 ## Pre-Setup | Do this first
 Make sure iMessage (Only if you are using [Relay Apps](https://openbubbles.github.io/docs/Setup/pnr#relay-apps)) and Facetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
@@ -29,7 +29,7 @@ The following guides can be followed regardless of jailbreak status:
 
 Guide 1 - Sideloading Beepserv:
 1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) ([SideStore](https://sidestore.io/) and [Feather](https://github.com/khcrysalis/Feather) are other options, Feather requires a Apple certificate to work),
- to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple ID required for sideloading).
+ to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple Account required for sideloading).
 2. Open the Beepserv Installer app to install and enable beepserv.
 3. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 4. Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)

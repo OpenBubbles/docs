@@ -4,14 +4,14 @@ sidebar_position: 4
 
 # Support
 :::note
-OpenBubbles is not responsible for your Apple ID or any Apple devices.
-OpenBubbles works best with Mac Hardware codes, and using only an Apple ID at one time or a phone number may fix issues.
+OpenBubbles is not responsible for your Apple Account or any Apple devices.
+OpenBubbles works best with Mac Hardware codes, and using only an Apple Account at one time or a phone number may fix issues.
 :::
 ## Suggestions & Reporting Issues
 
 If you wish to report bugs, issues or suggestions with the OpenBubbles app itself please visit:
 
-https://github.com/OpenBubbles/bluebubbles-app/issues
+https://github.com/OpenBubbles/openbubbles-app/issues
 
 ## Support & Community
 
@@ -23,7 +23,7 @@ Talk to us at https://discord.gg/98fWS4AQqN in the OpenBubbles support and gener
 When you first install OpenBubbles, your contacts may not be properly displayed. In order to fix this, restart your phone.
 
 
-### Why can't I see my messages sent with OpenBubbles on other Apple devices, even though my Apple ID is linked?
+### Why can't I see my messages sent with OpenBubbles on other Apple devices, even though my Apple Account is linked?
 
 * This is a known issue and should fix itself after 24 hours.
 
@@ -34,7 +34,7 @@ When you first install OpenBubbles, your contacts may not be properly displayed.
 * You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
 * Advanced Data Protection is enabled - Disable this option
 * Contact Key Verification is enabled - Disable this option
-* Your Apple ID/Hardware has been throttled/banned/blocked by Apple - Visit this [site](https://rentry.org/applebans) to learn more. You may need to create a new account.
+* Your Apple Account/Hardware has been throttled/banned/blocked by Apple - Visit this [site](https://rentry.org/applebans) to learn more. You may need to create a new account.
 
 Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
 
@@ -46,6 +46,7 @@ Contact us in the [discord](https://discord.gg/98fWS4AQqN) if issues persist.
 * Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~
 * Enable Keep Awake in relay app
 * If using a VPN check if Apple domains and services are blocked.
+* Make sure relay app and OpenBubbles are updated 
 
 ### Mac iMessage issues
 

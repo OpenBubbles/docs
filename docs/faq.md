@@ -68,6 +68,6 @@ This means you are throttled by Apple. Wait a few hours/days and try again.
 
 Visit - [Support Page | OpenBubbles](https://openbubbles.github.io/docs/support#why-cant-i-send--receive-messages)
 
-## Why can't I see my messages sent on OpenBubbles on other Apple devices, even though my Apple ID is linked?
+## Why can't I see my messages sent on OpenBubbles on other Apple devices, even though my Apple Account is linked?
 
 * This is a known issue and fixes itself after 24 hours.
