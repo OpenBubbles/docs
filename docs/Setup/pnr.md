@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Phone Number Registration
 :::note[disclaimer]
-Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware codes.
+Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware codes. Phone Number Registration is **NOT** required to use OpenBubbles. 
 
 The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their contents can change at any time. Use at your own risk.
 :::
@@ -22,26 +22,28 @@ Sim swapping is a method which involves using an iPhone to register a number, an
 Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
 While not required, leaving the display on may improve reliability.
 
-### Method 1
-There are multiple methods to install the required relay app. 
-If Guide 1 does not work, try guide 2.
-The following guides can be followed regardless of jailbreak status: 
-
-Guide 1 - Sideloading Beepserv:
-1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) ([SideStore](https://sidestore.io/) and [Feather](https://github.com/khcrysalis/Feather) are other options, Feather requires a Apple certificate to work),
- to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple Account required for sideloading).
-2. Open the Beepserv Installer app to install and enable beepserv.
-3. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
-4. Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)
+### Method 1 - Validation Relay
+There are multiple ways to install Validation Relay. 
+This is dependent on iOS version and device hardware. 
+This guide can be followed regardless of jailbreak status: 
  
-Guide 2 - TrollStore:
+Guide 1 - TrollStore
 
 1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
 2. If you have testflight installed, delete it.
 3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file. Then open trollstore and sideload the file.
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 5. Enable Keep Awake and Dim Display
-6. Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~ 
+6. Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~
+7.  Optional Steps  - If you are Jailbroken you can install [AdvancedBrightnessSlider](https://havoc.app/package/advancedbright) to lower the risk of screen burn in and install [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery.
+
+Guide 2 -  Sideloading Beepserv - Installs a out of date Validation Relay and is no longer recommended 
+
+~~1. Use [Sideloadly](https://sideloadly.io/) or [AltStore](https://altstore.io/) ([SideStore](https://sidestore.io/) and [Feather](https://github.com/khcrysalis/Feather) are other options, Feather requires a Apple certificate to work),
+ to sideload the [provided beepserv installer IPA](https://joshuafhiggins.github.io/beepserv_installer_v0.1.ipa) onto your iPhone (Apple Account required for sideloading).
+2. Open the Beepserv Installer app to install and enable beepserv.
+3. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from beepserv in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
+4. Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~
 
 ### Method 2
 
