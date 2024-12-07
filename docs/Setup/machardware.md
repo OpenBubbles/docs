@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Hardware Info
 :::note
-OpenBubbles **REQUIRES** hardware info from genuine Apple hardware to function. OpenBubbles works **BEST** with Mac hardware information.
+OpenBubbles **REQUIRES** hardware info from genuine Apple hardware to function. OpenBubbles works **BEST** with Mac hardware information.Phone Number Registration is **NOT** required to use OpenBubbles.
 
 Minimum OS Version - High Sierra and above.
 :::
