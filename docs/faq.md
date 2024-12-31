@@ -52,8 +52,7 @@ You are responsible for who you share your hardware identifiers with. If someone
 
 ## Does OpenBubbles work with FindMy?
 
-* No, OpenBubbles does not have FindMy integration.
-
+* OpenBubbles can view friend locations. It cannot send locations currently.
 ## Does OpenBubbles work with FaceTime?
 
 * No, OpenBubbles does not work with FaceTime.
