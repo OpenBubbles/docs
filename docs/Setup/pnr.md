@@ -35,7 +35,7 @@ Guide 1 - TrollStore
 4. Install OpenBubbles if you haven't already and follow the setup steps, and input the code from the relay app in OpenBubbles (if you are changing from existing hardware. go to settings, reset, and press "Just change hardware").
 5. Enable Keep Awake and Dim Display
 6. Ignore if on version V1.8 or higher. ~~Set location services to always for the relay app. (Go to Settings, Privacy & Security, Location Services and Relay)~~
-7.  Optional Steps  - If you are Jailbroken you can install [AdvancedBrightnessSlider](https://havoc.app/package/advancedbright) to lower the risk of screen burn in and install [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery.
+7.  Optional Steps  - If you are Jailbroken (tweaks may not be compatible with your iOS version) you can install the following apps, [AdvancedBrightnessSlider](https://havoc.app/package/advancedbright) to lower the risk of screen burn in, install [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery and [Immortalizer](https://havoc.app/package/immortalizer) to keep the relay app in the active while the screen is off.
 
 Guide 2 -  Sideloading Beepserv - Installs a out of date Validation Relay and is no longer recommended 
 
