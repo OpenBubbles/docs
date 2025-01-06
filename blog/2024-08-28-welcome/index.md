@@ -4,6 +4,7 @@ title: Welcome
 authors: [cloudrealm]
 tags: [OpenBubbles]
 ---
+Edited - January 6th 2025
 
-Hi, welcome to the OpenBubbles documentation website. I hope you find it useful. The website is currently under construction and things might break. 
-I don't know if I want the site to have a blog. The blog might be turned off later in the future. 
+
+The OpenBubbles documentation page has now moved to a new location with a new design. Visit the new site here https://openbubbles.app/

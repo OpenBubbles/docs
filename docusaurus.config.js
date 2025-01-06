@@ -39,8 +39,9 @@ const config = {
             'classic',
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
-                docs: {
-                    routeBasePath: '/',
+                docs:
+                 {
+                   
                     sidebarPath: './sidebars.js',
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
@@ -48,7 +49,8 @@ const config = {
                     showLastUpdateAuthor: true,
                     showLastUpdateTime: true,
                 },
-                blog: {
+            blog: {
+                     routeBasePath: '/',
                     showReadingTime: true,
                     feedOptions: {
                         type: ['rss', 'atom'],
@@ -75,14 +77,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-                  announcementBar: {
-                      id: 'work_in_progress',
-                      content:
-                          '<b> This site is a work in progress<b> ',
-              backgroundColor: '#5592e7',
-                      textColor: '#ffffff',
-                      isCloseable: false,
-                  },
+               
               
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -93,15 +88,10 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
+       
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-              href: 'https://github.com/OpenBubbles/openbubbles-app',
+              href: 'https://openbubbles.app/',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/',
+                    to: 'https://openbubbles.app/',
               },
             ],
           },
