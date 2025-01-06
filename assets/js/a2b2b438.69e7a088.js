@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6009],{7888:e=>{e.exports=JSON.parse('{"tags":[{"label":"OpenBubbles","permalink":"/docs/blog/tags/openbubbles","description":"OpenBubbles tag description","count":1}]}')}}]);

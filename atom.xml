@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://OpenBubbles.github.io/docs</id>
+    <title>OpenBubbles Blog</title>
+    <updated>2024-08-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://OpenBubbles.github.io/docs"/>
+    <subtitle>OpenBubbles Blog</subtitle>
+    <icon>https://OpenBubbles.github.io/docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://OpenBubbles.github.io/docs/welcome</id>
+        <link href="https://OpenBubbles.github.io/docs/welcome"/>
+        <updated>2024-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Edited - January 6th 2025]]></summary>
+        <content type="html"><![CDATA[<p>Edited - January 6th 2025</p>
+<p>The OpenBubbles documentation page has now moved to a new location with a new design. Visit the new site here <a href="https://openbubbles.app/" target="_blank" rel="noopener noreferrer">https://openbubbles.app/</a></p>]]></content>
+        <author>
+            <name>CloudRealm</name>
+            <uri>https://github.com/CloudRealm</uri>
+        </author>
+        <category label="OpenBubbles" term="OpenBubbles"/>
+    </entry>
+</feed>
