@@ -52,7 +52,8 @@ You are responsible for who you share your hardware identifiers with. If someone
 
 ## Does OpenBubbles work with FindMy?
 
-* OpenBubbles can view friend locations. It cannot send locations currently.
+* OpenBubbles can only view the locations of friends and Apple devices(Airpods/Airtags are not supported).
+* Sending location/Adding devices and other FindMy features do not work.
 ## Does OpenBubbles work with FaceTime?
 
 * No, OpenBubbles does not work with FaceTime.
