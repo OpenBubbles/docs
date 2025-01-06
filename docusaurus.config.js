@@ -89,7 +89,7 @@ const config = {
         },
         items: [
        
-          {to: '/blog', label: 'Blog', position: 'left'},
+            { to: 'https://openbubbles.app/', label: 'New Site', position: 'left'},
           {
               href: 'https://openbubbles.app/',
             label: 'GitHub',
@@ -112,10 +112,7 @@ const config = {
           {
             title: 'Community',
             items: [
-                {
-                    label: 'Blog',
-                    href: '/blog',
-                },
+             
               {
                 label: 'Discord',
                     href: 'https://discord.gg/98fWS4AQqN',
